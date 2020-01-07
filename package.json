@@ -1,0 +1,25 @@
+{
+  "name": "Unit10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^7.0.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RebelCommand78/Unit10.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RebelCommand78/Unit10/issues"
+  },
+  "homepage": "https://github.com/RebelCommand78/Unit10/blob/master/README.md",
+  "keywords": []
+}
